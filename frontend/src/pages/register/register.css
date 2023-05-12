@@ -1,0 +1,131 @@
+    .body_color {
+        background-color: #ffebeb !important;
+    }
+
+    .body_negro {
+        background-color: #1a1a1a !important;
+    }
+
+
+    .gris {
+        background-color: #4d4d4d !important;
+    }
+
+    .card {
+        border: none !important;
+        border-radius: 10px !important;
+        box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2) !important;
+        background-color: #fff !important;
+    }
+
+    .card-dark {
+        border: none !important;
+        border-radius: 10px !important;
+        box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2) !important;
+        background-color: #333333 !important;
+    }
+
+    .card-header {
+        background-color: #ff4d4d !important;
+        color: #fff !important;
+        text-align: center !important;
+        font-weight: bold !important;
+        border-radius: 10px 10px 0 0 !important;
+    }
+
+    .card-header a {
+        position: relative !important;
+        top: 0 !important;
+        left: 0 !important;
+        padding: 10px !important;
+        color: #fff !important;
+        z-index: 1 !important;
+    }
+
+    .card-header a i {
+        color: #fff !important;
+    }
+
+    .card-header .bi-moon-fill {
+        font-size: 20px !important;
+
+    }
+
+    .label_light {
+        color: #343a40 !important;
+    }
+
+    .label_dark {
+        color: #fff !important;
+    }
+
+    .label_light_pws {
+        color: #343a40 !important;
+    }
+
+    .label_dark_psw {
+        color: #fff !important;
+    }
+
+    .label_light_gender {
+        color: #343a40 !important;
+    }
+
+    .label_dark_gender {
+        color: #fff !important;
+    }
+
+    .p_light {
+        color: #343a40 !important;
+    }
+
+    .p_dark {
+    color: #fff !important;
+}
+
+
+.form_control {
+    border-radius: 0 !important;
+    border: none !important;
+    background-color: #ffcccc !important;
+    color: #252525 !important;
+}
+
+.form_control_dark {
+    border-radius: 0 !important;
+    border: none !important;
+    background-color: #4d4d4d !important;
+    color: #fff !important;
+}
+.form_select_dark {
+    border-radius: 0 !important;
+    border: none !important;
+    background-color: #4d4d4d !important;
+    color: #fff !important;
+}
+.form_select {
+    border-radius: 0 !important;
+    border: none !important;
+    background-color: #ffcccc !important;
+    color: #252525 !important;
+}
+
+.btn-primary {
+    background-color: #ff4d4d !important;
+    border-color: #ff4d4d !important;
+}
+
+.btn-primary:hover {
+    background-color: #ff3333 !important;
+    border-color: #ff3333 !important;
+}
+
+a {
+    color: #ff4d4d !important;
+}
+
+.foto_perfil{
+    border: solid 1px #ff4d4d !important;
+    width : 200px !important;
+
+}

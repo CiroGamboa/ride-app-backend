@@ -28,6 +28,6 @@ app.use('/api', clientRoutes)
 app.use('/api', driverRoutes)
 app.use('/api', rideRoutes)
 
-app.listen(3000, () => {
-    console.log(`Server Started at ${3000}`)
+app.listen(5000, () => {
+    console.log(`Server Started at ${5000}`)
 })
